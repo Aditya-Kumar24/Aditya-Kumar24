@@ -187,25 +187,13 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 ### 🤝 Let's Connect & Collaborate
 
 <div align="center">
-  <br/>
 
-  <a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:hustlewthadi@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/Aditya-Kumar24">
-    <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+*Open to internships, research collaborations, open-source contributions, and building cool things together.*
 
-  <br/><br/>
-</div>
-
-> *Open to internships, research collaborations, open-source contributions, and building cool things together.*
+📩 **Reach me:** [hustlewthadi@gmail.com](mailto:hustlewthadi@gmail.com) &nbsp;·&nbsp; 📱 **Call:** +91-7463958858 &nbsp;·&nbsp; 🔗 **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-575720311/)
 
 <br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=120&section=footer" width="100%" />
 </div>
+
