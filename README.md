@@ -131,23 +131,23 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <div align="center">
 
 <!-- Full-width commit timeline -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aditya-Kumar24&theme=tokyonight" alt="Profile Details" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-forge&theme=tokyonight" alt="Profile Details" width="100%" />
 
 <br/>
 
 <!-- Two cards side by side — properly sized -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aditya-Kumar24&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aditya-Kumar24&theme=tokyonight" alt="Stats" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-forge&theme=tokyonight" alt="Top Languages by Commit" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-forge&theme=tokyonight" alt="Stats" width="49%" />
 
 <br/><br/>
 
 <!-- Streak stats — centered and prominent -->
-<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="65%" />
+<img src="https://streak-stats.demolab.com/?user=aditya-forge&theme=tokyonight&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED" alt="GitHub Streak" width="65%" />
 
 <br/><br/>
 
 <!-- Full-width contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-forge&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&area_color=2F80ED" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -182,12 +182,11 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 <a href="mailto:hustlewthadi@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;
-<a href="https://github.com/Aditya-Kumar24">
-  <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/aditya-forge">
+  <img src="https://img.shields.io/badge/GITHUB-ADITYA--FORGE-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=120&section=footer" width="100%" />
 </div>
-
