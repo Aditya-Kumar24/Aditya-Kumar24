@@ -50,31 +50,25 @@
 
 ---
 
-<table width="100%" style="border: none;">
-  <tr>
-    <td width="50%" align="center">
-      <h3>🚀 Core Technologies</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,react,nodejs,django,postgres,mongodb,docker,linux,git&perline=7" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h3>🏆 GitHub Trophies</h3>
-      <a href="https://github.com/Aditya-Kumar24">
-        <img src="https://github-profile-trophy.vercel.app/?username=Aditya-Kumar24&theme=dracula&no-frame=true&margin-w=15" alt="GitHub Trophies" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 System Metrics
-
 <div align="center">
-  <!-- Fixed the bg_color bug that was breaking these images -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&layout=donut&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  
+### 🚀 Core Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,react,nodejs,django,postgres,mongodb,docker,linux,git&perline=10" />
+</a>
+
+<br><br><br>
+
+### 📈 System Metrics
+
+<!-- Cache busted URLs so GitHub fetches the fresh, working images -->
+<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&layout=donut&theme=dracula&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+
 </div>
 
 <br>
