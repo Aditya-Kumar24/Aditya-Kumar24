@@ -1,78 +1,113 @@
-<!-- 
-  ========================================================================
-  🔥 THE ULTIMATE DEVELOPER README (TERMINAL / NEXT-LEVEL EDITION)
-  ========================================================================
--->
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2&height=250&section=header&text=Aditya%20Kumar&fontSize=60&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Builder&descSize=20&descAlignY=65&fontColor=ffffff" width="100%" />
 
-<!-- MacOS Window Aesthetic Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E1E1E&height=120&section=header" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=➜+%7E+whoami;Aditya+Kumar;Software+Engineer;AI+%26+IoT+Researcher;➜+%7E+echo+%24IMPACT" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-kumar-575720311/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0077B5" /></a>
-  <a href="mailto:hustlewthadi@gmail.com"><img src="https://img.shields.io/badge/-Email-black.svg?style=for-the-badge&logo=gmail&colorB=D14836" /></a>
-  <a href="https://github.com/Aditya-Kumar24"><img src="https://img.shields.io/badge/-GitHub-black.svg?style=for-the-badge&logo=github&colorB=181717" /></a>
-</p>
-
+  <br>
+  <a href="https://github.com/Aditya-Kumar24">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Building+Scalable+Systems;Pioneering+AI+Integration;Architecting+the+Future" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-### 💻 `cat aditya_kumar.json`
+### 🧬 Who Am I?
 
-```json
-{
-  "name": "Aditya Kumar",
-  "education": "B.Tech CSE @ SRM University AP (GPA: 9.22)",
-  "roles": [
-    "Web Development Intern @ Vaultsphere AI Technologies",
-    "Student Researcher @ SRM University R&D"
-  ],
-  "notable_achievements": [
-    "Patented: AI-enabled Smart Shopping Trolley System",
-    "Gold Medalist: 10th Research Day SRM",
-    "Finalist: VOID V1 Hackathon"
-  ],
-  "tech_stack": {
-    "frontend": ["React", "Next.js", "HTML", "CSS", "TS"],
-    "backend": ["Python", "Django", "Node.js", "Express", "C++"],
-    "database": ["PostgreSQL", "MongoDB", "MySQL"],
-    "infrastructure": ["Docker", "Linux", "Git", "IoT Sensors"]
-  },
-  "current_focus": "Building highly scalable distributed systems and integrating AI/Hardware."
-}
+```javascript
+const aditya = {
+    role          : "B.Tech CSE Student",
+    patent        : "Published Inventor — AI-Enabled Smart Trolley System",
+    stack         : ["MERN", "Python", "Django", "IoT Sensors"],
+    currentFocus  : ["System Design", "Scalable Architectures", "AI/ML"],
+    building      : "DeployX Cloud IDE, Autonomous Retail Systems",
+    philosophy    : "Ship fast. Think deeper. Break things. Rebuild better."
+};
 ```
+> 💡 I engineer at the intersection of AI, full-stack development, and IoT — turning research-grade ideas into production-grade systems.
 
 ---
 
+### 📜 Intellectual Property
+
+<table width="100%">
+<tr>
+<td>
+
+#### 🏅 AI-Enabled Smart Trolley System
+**Status:** `Patent Published` (Indian Patent Journal, 2025)
+
+An autonomous, IoT-integrated retail navigation framework with edge-based real-time billing. Bridges the gap between computer vision, autonomous navigation, and modern retail infrastructure. Designed to operate with minimal latency at the edge.
+
+<p>
+  <img src="https://img.shields.io/badge/IoT-Integrated-007ACC?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer_Vision-Enabled-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Edge_AI-Real--Time-4169E1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Retail_Tech-Innovated-4CAF50?style=flat-square" />
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Technical Arsenal
+
 <div align="center">
+  <b>🔤 Languages</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,python,js,c&perline=4" />
+  </a>
   
-### 🚀 Core Technologies
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,react,nodejs,django,postgres,mongodb,docker,linux,git&perline=10" />
-</a>
+  <br><br>
+  
+  <b>🎨 Frontend</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4" />
+  </a>
+  
+  <br><br>
+  
+  <b>🛠 Backend & Databases</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mongodb&perline=5" />
+  </a>
+</div>
 
-<br><br><br>
+---
 
-### 📈 System Metrics
+### 📊 GitHub Intelligence Report
 
-<!-- Cache busted URLs so GitHub fetches the fresh, working images -->
-<img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&v=2" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&layout=donut&theme=dracula&hide_border=true&bg_color=0D1117&v=2" alt="Top Languages" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-Kumar24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" alt="GitHub Stats" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="53%" />
+  
+  <br><br>
 
-<br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Kumar24&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" alt="Top Languages" width="60%" />
+  
+  <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=Aditya-Kumar24&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-Kumar24&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
+</div>
 
+---
+
+### 🤝 Let's Connect & Collaborate
+
+<div align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
+    <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hustlewthadi@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Aditya-Kumar24">
+    <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 <br>
+<blockquote>
+<i>Open to internships, research collaborations, open-source contributions, and building cool things together.</i>
+</blockquote>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1E1E,100:000000&height=120&section=footer" />
-</div>
+<br>
