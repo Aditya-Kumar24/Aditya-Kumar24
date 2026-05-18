@@ -1,27 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=280&section=header&text=Aditya%20Kumar&fontSize=65&fontWeight=700&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Builder&descSize=22&descAlignY=68&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=250&section=header&text=Aditya%20Kumar&fontSize=70&fontWeight=700&desc=B.Tech%20CSE%20%7C%20Patent%20Holder%20%7C%20Full-Stack%20Builder&descSize=20&descAlignY=65&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <a href="https://github.com/Aditya-Kumar24">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Architectures;Pioneering+AI+%26+IoT+Integration;Patent+Published+Inventor;Open+Source+Contributor" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://github.com/Aditya-Kumar24">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Web+Architectures;🧠+Pioneering+AI+%26+IoT+Integration;📜+Patent+Published+Inventor;💻+Open+Source+Contributor" alt="Typing SVG" />
+</a>
 
-  <a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
-    <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;
-  <a href="mailto:hustlewthadi@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;
-  <a href="https://github.com/Aditya-Kumar24">
-    <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<br/>
 
-  <br/><br/>
+<a href="https://www.linkedin.com/in/aditya-kumar-575720311/"><img src="https://img.shields.io/badge/-Aditya_Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;
+<a href="mailto:hustlewthadi@gmail.com"><img src="https://img.shields.io/badge/-hustlewthadi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" height="25" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Aditya-Kumar24"><img src="https://img.shields.io/badge/-Aditya--Kumar24-181717?style=flat&logo=GitHub&logoColor=white" height="25" /></a>&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Aditya-Kumar24&label=Visitors&color=2F80ED&style=flat" height="25" />
 
-  <img src="https://komarev.com/ghpvc/?username=Aditya-Kumar24&label=Profile+Views&color=2F80ED&style=flat-square" />
 </div>
 
 ---
