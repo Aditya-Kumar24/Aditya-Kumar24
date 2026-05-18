@@ -5,15 +5,8 @@
 <br/>
 
 <a href="https://github.com/Aditya-Kumar24">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Web+Architectures;🧠+Pioneering+AI+%26+IoT+Integration;📜+Patent+Published+Inventor;💻+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+Building+Scalable+Web+Architectures;%F0%9F%A7%A0+Pioneering+AI+%26+IoT+Integration;%F0%9F%93%9C+Patent+Published+Inventor;%F0%9F%92%BB+Open+Source+Contributor" alt="Typing SVG" />
 </a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/aditya-kumar-575720311/"><img src="https://img.shields.io/badge/-Aditya_Kumar-0077B5?style=flat&logo=Linkedin&logoColor=white" height="25" /></a>&nbsp;&nbsp;
-<a href="mailto:hustlewthadi@gmail.com"><img src="https://img.shields.io/badge/-hustlewthadi@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white" height="25" /></a>&nbsp;&nbsp;
-<a href="https://github.com/Aditya-Kumar24"><img src="https://img.shields.io/badge/-Aditya--Kumar24-181717?style=flat&logo=GitHub&logoColor=white" height="25" /></a>&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=Aditya-Kumar24&label=Visitors&color=2F80ED&style=flat" height="25" />
 
 </div>
 
@@ -183,9 +176,19 @@ An autonomous, IoT-integrated retail navigation framework with edge-based real-t
 
 *Open to internships, research collaborations, open-source contributions, and building cool things together.*
 
-📩 **Reach me:** [hustlewthadi@gmail.com](mailto:hustlewthadi@gmail.com) &nbsp;·&nbsp; 📱 **Call:** +91-7463958858 &nbsp;·&nbsp; 🔗 **LinkedIn:** [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-575720311/)
-
 <br/>
+
+<a href="https://www.linkedin.com/in/aditya-kumar-575720311/">
+  <img src="https://img.shields.io/badge/LINKEDIN-ADITYA_KUMAR-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>&nbsp;
+<a href="mailto:hustlewthadi@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-HUSTLEWTHADI@GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+<a href="https://github.com/Aditya-Kumar24">
+  <img src="https://img.shields.io/badge/GITHUB-ADITYA--KUMAR24-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,20&height=120&section=footer" width="100%" />
 </div>
